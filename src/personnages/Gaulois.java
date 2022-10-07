@@ -37,7 +37,7 @@ public void frapper(Romain romain) {
 }
 public void boirePotion(int forcePotion) {
 	this.effetPotion = forcePotion;
-	parler("« Merci Druide, je sens que ma force est "+ forcePotion+" fois décuplée. »");
+	parler("« Merci Druide, je sens que ma force est "+ forcePotion +" fois décuplée. »");
 }
 public static void main(String[] args) {
 // TODO tester la classe gaulois.
