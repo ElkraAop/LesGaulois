@@ -20,6 +20,10 @@ public class Scenario {
 		for (int i = 0; i<3;i++){
 			asterix.frapper(minus);
 		}
+		minus.sEquiper(Equipement.CASQUE);
+		minus.sEquiper(Equipement.CASQUE);
+		minus.sEquiper(Equipement.BOUCLIER);
+		minus.sEquiper(Equipement.CASQUE);
 	}
 
 }
